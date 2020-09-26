@@ -1,4 +1,4 @@
-# mars-photo-viewer
+# Mars Explorer
 
 ## Project setup
 ```
